@@ -1,4 +1,4 @@
-# United States Covid-19 spread analysis
+
 
 
 
@@ -14,6 +14,7 @@ October 31 was Halloween last year. Americans celebrated Halloween amid the ongo
 | Oct 1 - 7   (w4) |   11.00 M  |   0.246 M  |   33,257   |     746     |  
 | Oct 8 - 14  (w5) |   12.21 M  |   0.258 M  |   36,898   |     778     |  
 
+
 Increase in each week
 
 |      Weeks       |   Cases    |   Deaths   |  Cases PM  |  Deaths PM  |
@@ -22,5 +23,6 @@ Increase in each week
 |     w3 - w2      |   1.372 M  |   0.013 M  |    4146    |     40      |  
 |     w4 - w3      |   1.028 M  |   0.008 M  |    3130    |     24      |  
 |     w5 - w4      |   1.210 M  |   0.012 M  |    3641    |     32      |  
+
 
 For more information [check out.](https://abcnews.go.com/Health/halloween-gatherings-cited-authorities-leading-covid-19-outbreaks/story?id=74195085)
