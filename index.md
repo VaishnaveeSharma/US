@@ -1,7 +1,4 @@
 
-
-
-
 ### Halloween Celebrations
 
 October 31 was Halloween last year. Americans celebrated Halloween amid the ongoing pandemic covid-19. As a result there was a sharp upsurge in covid-19 cases and deaths. Below table shows statistics before and after weeks of Halloween.
@@ -11,8 +8,8 @@ October 31 was Halloween last year. Americans celebrated Halloween amid the ongo
 | Oct 25 - 31 (w1) |   8.116 M  |   0.219 M  |   24,521   |     664     |  
 | Oct 18 - 25 (w2) |   8.600 M  |   0.225 M  |   25,981   |     682     |  
 | Oct 25 - 31 (w3) |   9.972 M  |   0.238 M  |   30,127   |     722     |  
-| Oct 1 - 7   (w4) |   11.00 M  |   0.246 M  |   33,257   |     746     |  
-| Oct 8 - 14  (w5) |   12.21 M  |   0.258 M  |   36,898   |     778     |  
+| Oct 01 - 07 (w4) |   11.00 M  |   0.246 M  |   33,257   |     746     |  
+| Oct 08 - 14 (w5) |   12.21 M  |   0.258 M  |   36,898   |     778     |  
 
 
 Increase in each week
