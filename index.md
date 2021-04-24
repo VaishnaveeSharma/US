@@ -1,6 +1,3 @@
-
-### Halloween Celebrations
-
 October 31 was Halloween last year. Americans celebrated Halloween amid the ongoing pandemic covid-19. As a result there was a sharp upsurge in covid-19 cases and deaths. Below table shows statistics before and after weeks of Halloween.
 
 |      Weeks       |   Cases    |   Deaths   |  Cases PM  |  Deaths PM  |
